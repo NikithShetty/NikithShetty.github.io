@@ -1,3 +1,5 @@
 jade
 *.jade
 prepros.cfg
+css/style.default.scss
+css/_config.scss

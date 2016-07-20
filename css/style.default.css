@@ -241,6 +241,9 @@ p.social a.email:hover {
   p.social a.gitlab {
     background-color: #fc6d26;
   }
+  p.social a.github {
+    background-color: #ff9933;
+  }
   p.social a.email {
     background-color: #34a853;
   }
