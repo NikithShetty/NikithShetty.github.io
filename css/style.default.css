@@ -209,6 +209,14 @@ p.social a.gitlab:hover {
   background-color: #fc6d26;
 }
 
+p.social a.github {
+  background-color: #333;
+}
+
+p.social a.github:hover {
+  background-color: #ff9933;
+}
+
 p.social a.email {
   background-color: #333;
 }
